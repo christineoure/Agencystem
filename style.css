@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.logo{
+    margin-top: 3%;
+    padding-right: 4%;
+}
+h2{
+    margin-top: -3%;
+    margin-left: 2%;
+}
+nav ul li{
+    display: inline;
+    margin-left: 14%;
+}
+span{
+    color: #5aafa1;
+}
+strong{
+    color: #3a1404;
+}
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    border: none;
+    background-color: #5185f9;
+}
+.socialmedia{
+    margin-top: 20%;
+    margin-left: 3%;
+    display: flex;
+}
+.socialmedia{
+    margin-top: 30px;
+}
+.instagram i{
+    background-color: #faba31;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.twitter i{
+    background-color: #5aafa1;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.image{
+    float: right;
+    margin-top: -150px;
+}
+h1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.share{
+    display: flex;
+    
+}
+.buzz button{
+    width: 80px;
+    height: 40px;
+    border: none;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: #5aafa1;
+}
+.kicky button{
+    width: 90px;
+    height: 45px;
+    border: none;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+.punns{
+    display: flex;
+    padding:5% 15%;
+    margin-left: 5%;
+}
+.kim{
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.lee{
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.sun{
+    margin-left: 20px;
+    background-color: #ffffff;
+}
+.officons{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 6%;
+}
+.slack{
+    margin-top: -1.5%;
+    margin-left: 2%;
+}
+.prudenial{
+    margin-top: -3%;
+    margin-left: 4%;
+}
+.microsoft{
+    margin-top: -2.5%;
+}
+.zoover{
+    margin-bottom: -90px;
+}
+.complogo{
+    background-color: #f7f5f6;
+}
+.param{
+    color: #5aafa1;
+    text-align: center;
+}
+.yes{
+    text-align: center;
+}
+.vinyl{
+    background-color: #5185f9;
+    padding: 15px;
+    width: 20px;
+    height: 3vh;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+.design{
+    padding: 30px;
+    padding-left: 100px;
+    background-color: #f5f9fa;
+    width: 250px;
+    
+}
+.development{
+    padding: 30px;
+    padding-left: 100px;
+    background-color: #5aafa1;
+    width: 250px;
+}
+.dev{
+    background-color: #fdf0e9;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 20px;
+}
+.development h3{
+    color: #ffffff;
+}
+.ans{
+    background: none;
+    color: #ffffff;
+}
+.marketing{
+    padding: 30px;
+    padding-left: 100px;
+    background-color: #eaf6fe;
+    width: 250px;
+}
+.market{
+    background-color: #faba31;
+    border:none;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 20px;
+}
+.go{
+    background: none;
+}
+.servers{
+    display: flex;
+    margin-top: 10%;
+    margin-left: -8%;
+}
+.serve{
+    display: flex;
+    margin-top: 10%;
+}
+.photo{
+    margin-left: 0.5%;
+}
+.components{
+    display: flex;
+    margin-left: 10%;
+}
+h3{
+    background:none;
+}
+.vet{
+    margin-left: auto;
+    color: #5aafa1;
+    /* margin-top: -20%; */
+}
+.kipt{
+    margin-left: 30%;
+    font-size: 30px;
+}
+.num1{
+    background-color: #5aafa1;
+    border:none;
+    margin-bottom: -40px;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 20px;
+    width: 20px;
+    height: 10%;
+}
+.fstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 15%;
+}
+.num2{
+    background-color: #5185f9;
+    border:none;
+    margin-bottom: -40px;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 20px;
+    width: 20px;
+}
+.sstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 20%;
+}
+.num3{
+    background-color: #faba31;
+    border:none;
+    margin-bottom: -40px;
+    padding: 15px;
+    border-radius: 90px;
+    margin-left: 20px;
+    width: 20px;
+}
+.kstsent p{
+    background: none;
+    font-size: 20px;
+    margin-left: 20%;
+}
+.subscribe h1{
+    text-align: center;
+    background-color: #ffffff;
+}
+.subscribe p{
+    text-align: center;
+    background-color: #ffffff;
+}
+.email{
+    margin-left: 30%;
+    background-color: #ffffff;
+}
+.email input{
+    width: 600px;
+    height: 10vh;
+    border: none;
+    border-radius: 15px;
+    background-color: #5aafa1;
+}
+button{
+    margin-left: -13%;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    background-color: #5185f9;
+}
+.subscribe{
+    height: 50vh;
+    background-color: #ffffff;
+}
+.footer h3{
+    color: #5aafa1;
+    margin-left: 33px;
+    background: none;
+}
+h4{
+    margin-left:4%;
+    height:15%;
+}
+input{
+    height: 10vh;
+    width: 30%;
+    margin-left: 2%;
+    border-radius: 15px;
+    border: none;
+    background-color: #ffffff;
+}
+.send button{
+    width: 100px;
+    margin-left: 15px;
+    border: none;
+    background-color: #5aafa1;
+}
+#name input{
+    margin-left: 10px;
+    width: 50%;
+    height: 20vh;
+}
+.pic{
+    float: right;
+    margin-top: -350px;
+    background-repeat: no-repeat;
+} 
